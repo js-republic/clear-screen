@@ -7,7 +7,7 @@ A simple cross-plateform utility to clear a CLI screen in JavaScript (equivalent
 
 When I ran my projet in watch mode to develop on it, I didn't give a shit on the previous logs of a webpack, an eslint (or other tools like that). So, I needed a way to clearify screen. I didn't find tool which do that correclty so I wrote my own.
 
-## Usage
+# Usage
 
 To install it (for development), as usual, just tap :
 On Yarn : `yarn add clear-screen --dev`
