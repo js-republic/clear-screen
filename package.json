@@ -1,10 +1,10 @@
 {
-  "name": "clear-screen",
+  "name": "clrscr",
   "version": "1.0.0",
   "description": "A ridiculously simple cross-platform tool to clear terminal screen",
   "main": "index.js",
   "bin": {
-    "clear-screen": "./index.js",
+    "clrscr": "./index.js",
     "clr": "./index.js"
   },
   "engine": "6.4.0",

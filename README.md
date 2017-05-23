@@ -1,4 +1,4 @@
-Clear Screen
+Clrscr
 ===
 
 A simple cross-plateform utility to clear a CLI screen in JavaScript (equivalent to Ctrl+r on Linux or Mac).
