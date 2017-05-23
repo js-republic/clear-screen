@@ -27,7 +27,7 @@ For example, if you want watch your files and fire a linting after each change w
 ```
 
 If you run `yarn lint:watch` (ou `npm run lint:watch`) you will see that :
-![clscr in action](https://github.com/js-republic/clrscr/clrscr.gif)
+![clscr in action](https://github.com/js-republic/clrscr/blob/master/clrscr.gif)
 
 > You can use to `clr` instead of `clrscr` to be more concise.
 
