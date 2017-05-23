@@ -1,0 +1,27 @@
+{
+  "name": "clear-screen",
+  "version": "1.0.0",
+  "description": "A ridiculously simple cross-platform tool to clear terminal screen",
+  "main": "index.js",
+  "bin": {
+    "clear-screen": "./index.js",
+    "clr": "./index.js"
+  },
+  "engine": "6.4.0",
+  "scripts": {
+    "test": "echo \"One dummy file => no test\" && exit 1"
+  },
+  "keywords": [
+    "CLI",
+    "Terminal",
+    "Shell",
+    "Clear",
+    "Clean",
+    "Ctrl+R",
+    "Screen",
+    "NPM",
+    "Scripts"
+  ],
+  "author": "Mathieu <mathieu.breton@js-republic.com>",
+  "license": "WTFPL"
+}
