@@ -33,4 +33,4 @@ If you run `yarn lint:watch` (ou `npm run lint:watch`) you will see that :
 
 # Credit
 
-This module is strongly inspired of how (Jest)[https://facebook.github.io/jest/] (the famous Unit test Framework) cleans the screen before each run.
+This module is strongly inspired of how [Jest](https://facebook.github.io/jest/) (the famous Unit test Framework) cleans the screen before each run.
