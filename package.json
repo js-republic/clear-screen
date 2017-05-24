@@ -1,6 +1,6 @@
 {
   "name": "clrscr",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A ridiculously simple cross-platform tool to clear terminal screen",
   "main": "index.js",
   "bin": {
